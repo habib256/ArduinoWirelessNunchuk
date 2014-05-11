@@ -1,7 +1,7 @@
 ArduinoWirelessNunchuk
 ======================
 
-ArduinoNunchuk - Improved Wii Nunchuk library for Arduino
+ArduinoWirelessNunchuk - Improved Wii Nunchuk library for Arduino
 
 VERHILLE Arnaud GPL3 2014
 
