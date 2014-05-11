@@ -34,7 +34,7 @@
 #define WII_NUNCHUCK_TWI_ADR ((byte)0x52)
 
 #include <Arduino.h>
-#include <Wire.h>
+//#include <Wire.h>
 
 class ArduinoWirelessNunchuk
 {
