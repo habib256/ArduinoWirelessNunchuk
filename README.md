@@ -21,3 +21,7 @@ Based on the following resources:
  *   http://todbot.com/blog/2008/02/18/wiichuck-wii-nunchuck-adapter-available/
  *   http://wiibrew.org/wiki/Wiimote/Extension_Controllers
 
+Installation
+============
+
+Copy the 'ArduinoWirelessNunchuk' folder to the Arduino libraries folder (Arduino/libraries).
